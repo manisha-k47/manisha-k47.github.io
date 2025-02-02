@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "India’s Lab-Grown Love Affair"
-date:   2025-02-02 12:03:00
+date:   2025-02-01 12:03:00
 categories: blog posts
 tags: featured
-image: "/assets/images/background_image.jpg"
+image: /assets/images/background_image.jpg
 ---
 Lab-grown diamonds (LGDs) are going to take over the next half of this decade, hopefully crossing the share of natural diamonds in a few decades. With natural diamond prices at an all-time low and increasing accessibility of LGDs, Indians are taking an increased interest in the diamond fashion jewellery segment. India’s LGD market is valued at almost $300MN (source: CNBC TV18) currently (!) and set to grow at a CAGR of ~15% in the coming 10 years. The Government has also abolished a 5% tax on imports of diamond seeds, used in the manufacture of LGDs, further strengthening the sector’s outlook.
 The below chart shows the Google search volumes of LGDs in India for the past 5 years with a clear upward trend since early 2023.
