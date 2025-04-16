@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Back To The Future"
+title:  "Full Circle? More Like Upward Spiral"
 date:   2025-04-15 12:03:00
 categories: blog posts
 tags: featured
