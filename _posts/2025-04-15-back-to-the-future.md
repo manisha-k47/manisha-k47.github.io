@@ -3,7 +3,7 @@ layout: post
 title:  "Full Circle? More Like Upward Spiral"
 date:   2025-04-15 12:03:00
 categories: blog posts
-tags: featured
+tags: 
 image: /assets/images/background_image.jpg
 ---
 I went back to Zurich after two whole decades earlier this month. Did it feel like a familiar homecoming you would expect it to? Absolutely not, it was quite the opposite. Buildings seemed unfamiliar, I did not recognise any of the tram stops I used to frequent as a kid and grocery stores seemed foreign. I have memories of a grand total of three physical places, including our home which has unfortunately been rebuilt since, and I could see none of them. It was a long trip, and I thought I’d grow irritable towards the end, but I felt quite the opposite. It felt right, and the trip felt like the life I wanted to lead.
