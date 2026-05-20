@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Girls Just Wanna Have Funds"
+date:   2026-05-20 12:03:00
+categories: blog posts
+tags: featured
+image: /assets/images/background_image.jpg
+---
+I’ve been sitting with my thoughts on how assets have been split in Indian families, usually around weddings, so here goes. Do keep in mind this comes from a Marwadi perspective. In generations past, including my parents’, the split was always between the father and his sons - at some point when all the children were married, the family would split the assets, which usually included a business, property, gold, cash, etc and that was that. The daughter’s share was usually what they spent on her wedding (the girl’s side usually hosts the event) and ‘gifts’ she receives which usually include gold, clothes, household items used at her in-laws’ residence, and sometimes a car (which the husband would drive), ‘gifts’ for the in-laws and finally cash during the grandchild’s wedding decades later.
+
+One could say things have slightly changed in the current generation, more women are working and earning money than ever before, fewer couples are choosing to live with the husband’s parents post wedding. In spite of these changes, the wealth split has not changed much - we now say gifts instead of dowry, buy the daughter a laptop as part of her trousseau, how forward! But the fundamental split of assets still remains such - the son gets appreciating assets while the daughter gets depreciating ones, with the exception of gold (I will come to this again later). This is justified by many reasons, the daughter is not going to be ‘a part of the family’, so why give wealth away like that, her expenses will be taken care of by her husband, why bother.
+
+Let’s come back to gold, one could argue it’s been possibly the best asset class in recent times, growing almost 2.5x in the past 5 years. But gold jewellery is not the same as an ETF or SGBs. It sits in a locker, gets worn on a special occasion, and is eventually passed down to the next generation who does the same. It is certainly great as a safety net, but can it do what other assets can? Can it grow the way a business does, is it usually mortgaged to finance a new venture, are there any new doors it opens? Sure, gold is mortgaged sometimes, but what are the funds used for - a medical emergency, household funds running short, school fees or an EMI due.The gold never steers the ship, it’s merely an emergency fund, and never primarily for the woman. The reason this matters is that gold is usually used as the trump card in these discussions, but in reality, it’s never used as the golden ticket it’s touted to be.
+
+Another such asset in families that do not have a business is an education that leads to a more lucrative job. You usually see families spend significantly more money on a degree in engineering, business management or the likes for their sons while daughters do shorter ‘fun’ courses, which usually lead to a hobby-business-from-home at best. This gap compounds over years, setting men up for professional success while robbing women of any agency and ambition.
+
+The tragedy is that nobody questions the system enough, because the ones who benefit from it have the loudest voice. Sons are set up for success and growth while daughters are set up to be supporting characters. I dream of a world with more women having the balls to reject this system and build their own wealth, on their own terms, living life as main characters. 
